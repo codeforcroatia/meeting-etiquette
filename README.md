@@ -1,7 +1,7 @@
-Code for America Meeting Etiquette
+Code for Croatia Meeting Etiquette
 =====
 
-These are good rules to follow when booking meetings at CfA. Submit an issue or create a pull request to suggest changes.
+These are good rules to follow when booking meetings at CfC. Submit an issue or create a pull request to suggest changes.
 
 #### 1. Default to 30 minutes.
 Don't start at an hour. If it's an hour long, it should be a working meeting.
